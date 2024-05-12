@@ -1,5 +1,4 @@
 # Chat_app
-Sure, here's how you can structure your README.md file:
 
 ```markdown
 # Flutter Chat Application
